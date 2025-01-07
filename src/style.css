@@ -75,7 +75,7 @@ body.dark {
     background-color: rgb(201, 160, 225);
   }
   @media (max-width: 768px) {
-    width: 380px;
+    width: 360px;
   }
 }
 
